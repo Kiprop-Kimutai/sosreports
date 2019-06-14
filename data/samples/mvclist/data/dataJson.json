@@ -1,0 +1,463 @@
+    {"cases": [
+        {
+            "_id": "5cdd7ff7c67ce169bd96a4a1",
+            "partner": {
+                "under_partner": true,
+                "partner": "NATIONAL COMMISSION FOR CHILDREN"
+            },
+            "startdate": "2019-05-15T21:00:00.000Z",
+            "enddate": "2019-05-15T21:00:00.000Z",
+            "social_worker": "jonahkiprop34@yahoo.com",
+            "psychologist": "Will Smith",
+            "case_workers": [
+                {
+                    "name": "Aleix Vidal"
+                }
+            ],
+            "address": {
+                "Province": "City of Kigali",
+                "District": "Nyarugenge",
+                "Sector": "Mageregere",
+                "Cellule": "Mataba",
+                "Village": "Kabeza"
+            },
+            "institution": "Kobil Children's home",
+            "entry_date": "2019-05-15T21:00:00.000Z",
+            "contact_person": {
+                "name": "Mercy Kebenei",
+                "phone": "0727618968"
+            },
+            "InshutizUmuryango": {
+                "name": "Ted Josiah",
+                "position": "Area Chief",
+                "phone": "0877654321"
+            },
+            "child_personal_details": {
+                "name": "Mwiza Rita",
+                "place_of_birth": "Nyanza",
+                "dob": "2007-07-11T21:00:00.000Z",
+                "sex": "F",
+                "nationality": "Rwanda",
+                "phone": "0711897666",
+                "address": "71, 30700- Kigali"
+            },
+            "current_care_arrangements": {
+                "current_care_arrangement": "child_headed_household",
+                "other": "",
+                "institution": {
+                    "name": "",
+                    "phone": "",
+                    "address": ""
+                },
+                "additional_info": "n/a"
+            },
+            "persons_of_importance_to_child": {
+                "living_with_child": [
+                    {
+                        "name": "Sabina Tess",
+                        "relationship": "matron",
+                        "phone": "0788654313"
+                    }
+                ],
+                "not_living_with_child": [
+                    {
+                        "name": "Rita Namugga",
+                        "relationship": "sister",
+                        "phone": "07221786543"
+                    }
+                ],
+                "siblings": {
+                    "in_same_or_different_institutions": true,
+                    "siblings": [
+                        {
+                            "name": "Fatia Sue",
+                            "institution": "Kobil children's home",
+                            "contact": "0766543121"
+                        }
+                    ]
+                },
+                "additional_info": "n/a"
+            },
+            "history_of_separation": {
+                "date_of_separation": "2013-11-13T21:00:00.000Z",
+                "date_of_placement": "2016-06-14T21:00:00.000Z",
+                "address": {
+                    "Province": "Southern",
+                    "District": "Gisagara",
+                    "Sector": "Gikonko",
+                    "Cellule": "Gasagara",
+                    "Village": "Gasagara"
+                },
+                "contact_details": "0725609295",
+                "cause_of_separation": {
+                    "conflict": false,
+                    "abandonment": false,
+                    "poverty": true,
+                    "death_of_mother": true,
+                    "death_of_father": true,
+                    "natural_disaster": false,
+                    "family_abuse": false,
+                    "family_violence": false,
+                    "family_exploitation": false,
+                    "population_movement": false,
+                    "lack_of_support": false,
+                    "sickness_of_family_member": false,
+                    "divorce": false,
+                    "entrusted_into_care": false,
+                    "other": false,
+                    "other_cause": ""
+                }
+            },
+            "photo": "iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAASzSURBVGhD7ZhtbFNlGIaHJiwzRPya/PKPUUlM/EgwEYgJErBfW08hO2fDGQUFMWrUMN121oFN8CsaEWfEjVQ3Njf8ZMrGBsH4w3ZoYgghaExEMdFE8MdC3MhaiF0fn+flOfOsfVpZz2nDj97JlTXnvO993+ft6XvaVZRVVlnuKLJixYIWwxM1de+fSKrN8EEmLbrnXR5++YiKm3W+o1JhgX942uWhdt3TYBreaaFofnRvGv/+3WZ4drFV6dVcF9iSVawAzDrvhefXafeybWlkrlutSWUckG5Z661h++JK3fN6AbfN/0CeL4VCN3FM8WQavp+kAm6A3qc5pjjaGgrdIQW7SavueYTj3BfuHqek0EvhzY1++DlaA4PtfvH8f3jPcpy7ikQi8+XA/EQa/RB/IwCpkSDAwaD62/l0/ouINK66mWPdE+3ZUlguwvU++DwcgMl9taq4nQk89tr63BcR1r2HOdY9ofF4ZlAu3nvKD3/0ZRe383tvLWxtkOfjjjTBse4JjenpKQZavIqrevSdGkiPyqUz+b6jVvTB3Qg41h01rVl9nxRkQSs5sr0GLgzlX3UJyY8w6wIPcrxzhXXP+1II0bMlAOOfzL24heRJtNZ79nO8c6Hh8cwAC6nUXJA8CfwcnOR452rTfWelEMJepvPRWxX2Y3ak85Ingd9yJzneufDhcl4KIexlurAcYT9mRzoveTLu/XZo1X05v7zZyxSC5KnA3wwc71y4reXcQqVSc0HytOB458JbSAwgpFJzQfK04HjnkswtpkcL30JTB+QHmQXHO5dkbvHW48uxTGEXQXMlT8I0PMc43rnou4kUQmj33AnD2+4XC+aD5tBcyRO/CH7M0e4JvyEOSGFUgujYvAzgC3o35MIz4Jgdjy2fmZfpFzZ8rRzpvrYZniVmne+cPdAqQkBXBcCeGwA+w9dDKwFGA4gfX+M7RMfoHI6xz7F86DdxyX7Ym7p/MOcFXAL2OVz+fFF+xOQT/S8HHzYJbW09LH6mGxZs6ofT3beLhe3QGBq7+Nlu0EI6XcC4rutVbFs6BeNTS0Px5BgC1U1DMK8hCnuizQAfXC0WV3QvVGNobHXTMNBcLZaMr4lPLWHb4ss3mq7U4oloKJZIUwHittePqFK+V/ogRc+Fnmuzy/dcp8498PKHaizNseZrscQ0eu4yfoT5HFMcBb87twhX7Fsr2GJp/6+q1DWbByB1UMMPLl7ER7cARCsvQq/xWOqQhmP61dhlA7/N8iDo3dBjk9Uc567IGFf9l8xQFfzNFFRtHFDFtu/eIW+fyItdO9WYqzbtpVXP8lFe8cQJ4ytYyLEuCWAeGh+SAi3u6jyhylVt6IXj+57IKn9s8El1jsbcvfsH0cMCs4Y52R3hyj8sBdmhFb3xhQMXV3hDn1rtM/sfUrR3vY3l+9S5Rc0jOVd/NolGjncm41O4EgNPySGz8R+emNmRJGjnCXw9Ic7NJnEyAnAF1yhcoVhylRwgE8TPA90i1z/3JVSu71XQazpGnxVpTi60seRKrlG4cCU6JPNSgLvSTq5RuLR48ohkXiLGuEbhwlvoL8G4VJzhGoULb6GkYFwiEkmuUVZZZYmqqPgX9xlfHID9F40AAAAASUVORK5CYII=",
+            "createdAt": "2019-05-16T15:21:27.245Z",
+            "updatedAt": "2019-05-16T15:21:27.245Z",
+            "caseno": "2-20087",
+            "__v": 0
+        },
+        {
+            "_id": "5cdabc01ac477a84d2f0aaa5",
+            "partner": {
+                "under_partner": true,
+                "partner": "NATIONAL COMMISSION FOR CHILDREN"
+            },
+            "startdate": "2019-05-13T21:00:00.000Z",
+            "enddate": "2019-05-14T21:00:00.000Z",
+            "social_worker": "jonahkiprop34@yahoo.com",
+            "psychologist": "Alex Smith",
+            "case_workers": [
+                {
+                    "name": "Paul Cook"
+                }
+            ],
+            "address": {
+                "Province": "City of Kigali",
+                "District": "Kicukiro",
+                "Sector": "Gahanga",
+                "Cellule": "Gahanga",
+                "Village": "Gahanga"
+            },
+            "institution": "Kigali Children's home",
+            "entry_date": "2019-05-13T21:00:00.000Z",
+            "contact_person": {
+                "name": "Tessy Maria",
+                "phone": "0722674987"
+            },
+            "InshutizUmuryango": {
+                "name": "Simon Chebobei",
+                "position": "Assistant chief",
+                "phone": "0719673996"
+            },
+            "child_personal_details": {
+                "name": "Loporon Ebei",
+                "place_of_birth": "Tot",
+                "dob": "2019-05-13T21:00:00.000Z",
+                "sex": "M",
+                "nationality": "Rwanda",
+                "phone": "0711324675",
+                "address": "Forest Road, Kigali Rwanda"
+            },
+            "current_care_arrangements": {
+                "current_care_arrangement": "institution_orphanage",
+                "other": "",
+                "institution": {
+                    "name": "Kigali Children's home",
+                    "phone": "0723765431",
+                    "address": "32-30706, Chebiemit"
+                },
+                "additional_info": "n/a"
+            },
+            "persons_of_importance_to_child": {
+                "living_with_child": [
+                    {
+                        "name": "Divinah Ego",
+                        "relationship": "matron",
+                        "phone": "0722876345"
+                    }
+                ],
+                "not_living_with_child": [
+                    {
+                        "name": "Abraham Lemut",
+                        "relationship": "uncle",
+                        "phone": "0719672654"
+                    }
+                ],
+                "siblings": {
+                    "in_same_or_different_institutions": true,
+                    "siblings": [
+                        {
+                            "name": "Lopenyo Ekai",
+                            "institution": "Kobil Children's home",
+                            "contact": "0733456123"
+                        }
+                    ]
+                },
+                "additional_info": "n/a"
+            },
+            "history_of_separation": {
+                "date_of_separation": "2016-02-02T21:00:00.000Z",
+                "date_of_placement": "2019-05-13T21:00:00.000Z",
+                "address": {
+                    "Province": "City of Kigali",
+                    "District": "Nyarugenge",
+                    "Sector": "Nyakabanda",
+                    "Cellule": "Munanira I",
+                    "Village": "Kabusunzu"
+                },
+                "contact_details": "Johanna Kwizera, 071198462",
+                "cause_of_separation": {
+                    "conflict": false,
+                    "abandonment": false,
+                    "poverty": false,
+                    "death_of_mother": true,
+                    "death_of_father": false,
+                    "natural_disaster": false,
+                    "family_abuse": false,
+                    "family_violence": false,
+                    "family_exploitation": false,
+                    "population_movement": false,
+                    "lack_of_support": true,
+                    "sickness_of_family_member": false,
+                    "divorce": false,
+                    "entrusted_into_care": false,
+                    "other": false,
+                    "other_cause": ""
+                }
+            },
+            "photo": "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",
+            "createdAt": "2019-05-14T13:00:49.552Z",
+            "updatedAt": "2019-05-14T13:00:49.553Z",
+            "caseno": "1-38849",
+            "__v": 0
+        },
+        {
+            "_id": "5cdd803303ecee6a1561e7bc",
+            "partner": {
+                "under_partner": true,
+                "partner": "NATIONAL COMMISSION FOR CHILDREN"
+            },
+            "startdate": "2019-05-15T21:00:00.000Z",
+            "enddate": "2019-05-15T21:00:00.000Z",
+            "social_worker": "jonahkiprop34@yahoo.com",
+            "psychologist": "Will Smith",
+            "case_workers": [
+                {
+                    "name": "Aleix Vidal"
+                }
+            ],
+            "address": {
+                "Province": "City of Kigali",
+                "District": "Nyarugenge",
+                "Sector": "Mageregere",
+                "Cellule": "Mataba",
+                "Village": "Kabeza"
+            },
+            "institution": "Kobil Children's home",
+            "entry_date": "2019-05-15T21:00:00.000Z",
+            "contact_person": {
+                "name": "Mercy Kebenei",
+                "phone": "0727618968"
+            },
+            "InshutizUmuryango": {
+                "name": "Ted Josiah",
+                "position": "Area Chief",
+                "phone": "0877654321"
+            },
+            "child_personal_details": {
+                "name": "Jeane Pierre",
+                "place_of_birth": "Nyanza",
+                "dob": "2007-07-11T21:00:00.000Z",
+                "sex": "F",
+                "nationality": "Rwanda",
+                "phone": "0711897666",
+                "address": "71, 30700- Kigali"
+            },
+            "current_care_arrangements": {
+                "current_care_arrangement": "child_headed_household",
+                "other": "",
+                "institution": {
+                    "name": "",
+                    "phone": "",
+                    "address": ""
+                },
+                "additional_info": "n/a"
+            },
+            "persons_of_importance_to_child": {
+                "living_with_child": [
+                    {
+                        "name": "Sabina Tess",
+                        "relationship": "matron",
+                        "phone": "0788654313"
+                    }
+                ],
+                "not_living_with_child": [
+                    {
+                        "name": "Rita Namugga",
+                        "relationship": "sister",
+                        "phone": "07221786543"
+                    }
+                ],
+                "siblings": {
+                    "in_same_or_different_institutions": true,
+                    "siblings": [
+                        {
+                            "name": "Fatia Sue",
+                            "institution": "Kobil children's home",
+                            "contact": "0766543121"
+                        }
+                    ]
+                },
+                "additional_info": "n/a"
+            },
+            "history_of_separation": {
+                "date_of_separation": "2013-11-13T21:00:00.000Z",
+                "date_of_placement": "2016-06-14T21:00:00.000Z",
+                "address": {
+                    "Province": "Southern",
+                    "District": "Gisagara",
+                    "Sector": "Gikonko",
+                    "Cellule": "Gasagara",
+                    "Village": "Gasagara"
+                },
+                "contact_details": "0725609295",
+                "cause_of_separation": {
+                    "conflict": false,
+                    "abandonment": false,
+                    "poverty": true,
+                    "death_of_mother": true,
+                    "death_of_father": true,
+                    "natural_disaster": false,
+                    "family_abuse": false,
+                    "family_violence": false,
+                    "family_exploitation": false,
+                    "population_movement": false,
+                    "lack_of_support": false,
+                    "sickness_of_family_member": false,
+                    "divorce": false,
+                    "entrusted_into_care": false,
+                    "other": false,
+                    "other_cause": ""
+                }
+            },
+            "photo": "iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAASzSURBVGhD7ZhtbFNlGIaHJiwzRPya/PKPUUlM/EgwEYgJErBfW08hO2fDGQUFMWrUMN121oFN8CsaEWfEjVQ3Njf8ZMrGBsH4w3ZoYgghaExEMdFE8MdC3MhaiF0fn+flOfOsfVpZz2nDj97JlTXnvO993+ft6XvaVZRVVlnuKLJixYIWwxM1de+fSKrN8EEmLbrnXR5++YiKm3W+o1JhgX942uWhdt3TYBreaaFofnRvGv/+3WZ4drFV6dVcF9iSVawAzDrvhefXafeybWlkrlutSWUckG5Z661h++JK3fN6AbfN/0CeL4VCN3FM8WQavp+kAm6A3qc5pjjaGgrdIQW7SavueYTj3BfuHqek0EvhzY1++DlaA4PtfvH8f3jPcpy7ikQi8+XA/EQa/RB/IwCpkSDAwaD62/l0/ouINK66mWPdE+3ZUlguwvU++DwcgMl9taq4nQk89tr63BcR1r2HOdY9ofF4ZlAu3nvKD3/0ZRe383tvLWxtkOfjjjTBse4JjenpKQZavIqrevSdGkiPyqUz+b6jVvTB3Qg41h01rVl9nxRkQSs5sr0GLgzlX3UJyY8w6wIPcrxzhXXP+1II0bMlAOOfzL24heRJtNZ79nO8c6Hh8cwAC6nUXJA8CfwcnOR452rTfWelEMJepvPRWxX2Y3ak85Ingd9yJzneufDhcl4KIexlurAcYT9mRzoveTLu/XZo1X05v7zZyxSC5KnA3wwc71y4reXcQqVSc0HytOB458JbSAwgpFJzQfK04HjnkswtpkcL30JTB+QHmQXHO5dkbvHW48uxTGEXQXMlT8I0PMc43rnou4kUQmj33AnD2+4XC+aD5tBcyRO/CH7M0e4JvyEOSGFUgujYvAzgC3o35MIz4Jgdjy2fmZfpFzZ8rRzpvrYZniVmne+cPdAqQkBXBcCeGwA+w9dDKwFGA4gfX+M7RMfoHI6xz7F86DdxyX7Ym7p/MOcFXAL2OVz+fFF+xOQT/S8HHzYJbW09LH6mGxZs6ofT3beLhe3QGBq7+Nlu0EI6XcC4rutVbFs6BeNTS0Px5BgC1U1DMK8hCnuizQAfXC0WV3QvVGNobHXTMNBcLZaMr4lPLWHb4ss3mq7U4oloKJZIUwHittePqFK+V/ogRc+Fnmuzy/dcp8498PKHaizNseZrscQ0eu4yfoT5HFMcBb87twhX7Fsr2GJp/6+q1DWbByB1UMMPLl7ER7cARCsvQq/xWOqQhmP61dhlA7/N8iDo3dBjk9Uc567IGFf9l8xQFfzNFFRtHFDFtu/eIW+fyItdO9WYqzbtpVXP8lFe8cQJ4ytYyLEuCWAeGh+SAi3u6jyhylVt6IXj+57IKn9s8El1jsbcvfsH0cMCs4Y52R3hyj8sBdmhFb3xhQMXV3hDn1rtM/sfUrR3vY3l+9S5Rc0jOVd/NolGjncm41O4EgNPySGz8R+emNmRJGjnCXw9Ic7NJnEyAnAF1yhcoVhylRwgE8TPA90i1z/3JVSu71XQazpGnxVpTi60seRKrlG4cCU6JPNSgLvSTq5RuLR48ohkXiLGuEbhwlvoL8G4VJzhGoULb6GkYFwiEkmuUVZZZYmqqPgX9xlfHID9F40AAAAASUVORK5CYII=",
+            "createdAt": "2019-05-16T15:22:27.906Z",
+            "updatedAt": "2019-05-16T15:22:27.906Z",
+            "caseno": "3-20147",
+            "__v": 0
+        },
+        {
+            "_id": "5cdd805b5973ef6a518bd3f5",
+            "partner": {
+                "under_partner": true,
+                "partner": "NATIONAL COMMISSION FOR CHILDREN"
+            },
+            "startdate": "2019-05-15T21:00:00.000Z",
+            "enddate": "2019-05-15T21:00:00.000Z",
+            "social_worker": "jonahkiprop34@yahoo.com",
+            "psychologist": "Will Smith",
+            "case_workers": [
+                {
+                    "name": "Aleix Vidal"
+                }
+            ],
+            "address": {
+                "Province": "City of Kigali",
+                "District": "Nyarugenge",
+                "Sector": "Mageregere",
+                "Cellule": "Mataba",
+                "Village": "Kabeza"
+            },
+            "institution": "Kobil Children's home",
+            "entry_date": "2019-05-15T21:00:00.000Z",
+            "contact_person": {
+                "name": "Mercy Kebenei",
+                "phone": "0727618968"
+            },
+            "InshutizUmuryango": {
+                "name": "Ted Josiah",
+                "position": "Area Chief",
+                "phone": "0877654321"
+            },
+            "child_personal_details": {
+                "name": "Paul Kwizera",
+                "place_of_birth": "Nyanza",
+                "dob": "2007-07-11T21:00:00.000Z",
+                "sex": "F",
+                "nationality": "Rwanda",
+                "phone": "0711897666",
+                "address": "71, 30700- Kigali"
+            },
+            "current_care_arrangements": {
+                "current_care_arrangement": "child_headed_household",
+                "other": "",
+                "institution": {
+                    "name": "",
+                    "phone": "",
+                    "address": ""
+                },
+                "additional_info": "n/a"
+            },
+            "persons_of_importance_to_child": {
+                "living_with_child": [
+                    {
+                        "name": "Sabina Tess",
+                        "relationship": "matron",
+                        "phone": "0788654313"
+                    }
+                ],
+                "not_living_with_child": [
+                    {
+                        "name": "Rita Namugga",
+                        "relationship": "sister",
+                        "phone": "07221786543"
+                    }
+                ],
+                "siblings": {
+                    "in_same_or_different_institutions": true,
+                    "siblings": [
+                        {
+                            "name": "Fatia Sue",
+                            "institution": "Kobil children's home",
+                            "contact": "0766543121"
+                        }
+                    ]
+                },
+                "additional_info": "n/a"
+            },
+            "history_of_separation": {
+                "date_of_separation": "2013-11-13T21:00:00.000Z",
+                "date_of_placement": "2016-06-14T21:00:00.000Z",
+                "address": {
+                    "Province": "Southern",
+                    "District": "Gisagara",
+                    "Sector": "Gikonko",
+                    "Cellule": "Gasagara",
+                    "Village": "Gasagara"
+                },
+                "contact_details": "0725609295",
+                "cause_of_separation": {
+                    "conflict": false,
+                    "abandonment": false,
+                    "poverty": true,
+                    "death_of_mother": true,
+                    "death_of_father": true,
+                    "natural_disaster": false,
+                    "family_abuse": false,
+                    "family_violence": false,
+                    "family_exploitation": false,
+                    "population_movement": false,
+                    "lack_of_support": false,
+                    "sickness_of_family_member": false,
+                    "divorce": false,
+                    "entrusted_into_care": false,
+                    "other": false,
+                    "other_cause": ""
+                }
+            },
+            "photo": "iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAASzSURBVGhD7ZhtbFNlGIaHJiwzRPya/PKPUUlM/EgwEYgJErBfW08hO2fDGQUFMWrUMN121oFN8CsaEWfEjVQ3Njf8ZMrGBsH4w3ZoYgghaExEMdFE8MdC3MhaiF0fn+flOfOsfVpZz2nDj97JlTXnvO993+ft6XvaVZRVVlnuKLJixYIWwxM1de+fSKrN8EEmLbrnXR5++YiKm3W+o1JhgX942uWhdt3TYBreaaFofnRvGv/+3WZ4drFV6dVcF9iSVawAzDrvhefXafeybWlkrlutSWUckG5Z661h++JK3fN6AbfN/0CeL4VCN3FM8WQavp+kAm6A3qc5pjjaGgrdIQW7SavueYTj3BfuHqek0EvhzY1++DlaA4PtfvH8f3jPcpy7ikQi8+XA/EQa/RB/IwCpkSDAwaD62/l0/ouINK66mWPdE+3ZUlguwvU++DwcgMl9taq4nQk89tr63BcR1r2HOdY9ofF4ZlAu3nvKD3/0ZRe383tvLWxtkOfjjjTBse4JjenpKQZavIqrevSdGkiPyqUz+b6jVvTB3Qg41h01rVl9nxRkQSs5sr0GLgzlX3UJyY8w6wIPcrxzhXXP+1II0bMlAOOfzL24heRJtNZ79nO8c6Hh8cwAC6nUXJA8CfwcnOR452rTfWelEMJepvPRWxX2Y3ak85Ingd9yJzneufDhcl4KIexlurAcYT9mRzoveTLu/XZo1X05v7zZyxSC5KnA3wwc71y4reXcQqVSc0HytOB458JbSAwgpFJzQfK04HjnkswtpkcL30JTB+QHmQXHO5dkbvHW48uxTGEXQXMlT8I0PMc43rnou4kUQmj33AnD2+4XC+aD5tBcyRO/CH7M0e4JvyEOSGFUgujYvAzgC3o35MIz4Jgdjy2fmZfpFzZ8rRzpvrYZniVmne+cPdAqQkBXBcCeGwA+w9dDKwFGA4gfX+M7RMfoHI6xz7F86DdxyX7Ym7p/MOcFXAL2OVz+fFF+xOQT/S8HHzYJbW09LH6mGxZs6ofT3beLhe3QGBq7+Nlu0EI6XcC4rutVbFs6BeNTS0Px5BgC1U1DMK8hCnuizQAfXC0WV3QvVGNobHXTMNBcLZaMr4lPLWHb4ss3mq7U4oloKJZIUwHittePqFK+V/ogRc+Fnmuzy/dcp8498PKHaizNseZrscQ0eu4yfoT5HFMcBb87twhX7Fsr2GJp/6+q1DWbByB1UMMPLl7ER7cARCsvQq/xWOqQhmP61dhlA7/N8iDo3dBjk9Uc567IGFf9l8xQFfzNFFRtHFDFtu/eIW+fyItdO9WYqzbtpVXP8lFe8cQJ4ytYyLEuCWAeGh+SAi3u6jyhylVt6IXj+57IKn9s8El1jsbcvfsH0cMCs4Y52R3hyj8sBdmhFb3xhQMXV3hDn1rtM/sfUrR3vY3l+9S5Rc0jOVd/NolGjncm41O4EgNPySGz8R+emNmRJGjnCXw9Ic7NJnEyAnAF1yhcoVhylRwgE8TPA90i1z/3JVSu71XQazpGnxVpTi60seRKrlG4cCU6JPNSgLvSTq5RuLR48ohkXiLGuEbhwlvoL8G4VJzhGoULb6GkYFwiEkmuUVZZZYmqqPgX9xlfHID9F40AAAAASUVORK5CYII=",
+            "createdAt": "2019-05-16T15:23:07.614Z",
+            "updatedAt": "2019-05-16T15:23:07.614Z",
+            "caseno": "4-20187",
+            "__v": 0
+        }
+    ]
+    }

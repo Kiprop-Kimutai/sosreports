@@ -1,0 +1,24 @@
+{
+    "folder": {
+        "shortid": "zbmSQyT"
+    },
+    "shortid": "BJxDz1y-kS",
+    "name": "mvc-list",
+    "recipe": "html-to-xlsx",
+    "engine": "handlebars",
+    "chrome": {
+        "printBackground": true
+    },
+    "creationDate": "2019-06-14T08:48:06.403Z",
+    "modificationDate": {
+        "$$date": 1560502147954
+    },
+    "_id": "tvLZqB11XWr4cDfz",
+    "$entitySet": "templates",
+    "htmlToXlsx": {
+        "htmlEngine": "chrome"
+    },
+    "data": {
+        "shortid": "Byl8AR0lyr"
+    }
+}

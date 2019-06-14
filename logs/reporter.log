@@ -1,0 +1,228 @@
+2019-06-14T08:18:05.107Z - info: Initializing jsreport@2.5.0 in development mode using configuration file: jsreport.config.json
+2019-06-14T08:18:05.108Z - info: Searching for available extensions in /Users/jonah/repo/sosreports/
+2019-06-14T08:18:05.115Z - info: Extensions location cache not found, crawling directories
+2019-06-14T08:18:05.639Z - info: Found 31 extensions
+2019-06-14T08:18:05.658Z - debug: Writing extension locations cache to /var/folders/s8/6n9pf2y54m9445jrtlbhy1fm0000gn/T/jsreport/core/locations.json
+2019-06-14T08:18:05.659Z - debug: Discovered 31 extensions
+2019-06-14T08:18:05.706Z - info: Setting http-server strategy for rendering
+2019-06-14T08:18:05.945Z - info: Using extension import-export@1.3.0
+2019-06-14T08:18:06.089Z - info: Using extension tags@2.2.0
+2019-06-14T08:18:06.091Z - info: Using extension templates@2.2.0
+2019-06-14T08:18:06.093Z - info: Using extension jsrender@2.0.0
+2019-06-14T08:18:06.095Z - debug: Extension authentication@2.2.3 is disabled, skipping
+2019-06-14T08:18:06.095Z - info: Using extension handlebars@2.0.2
+2019-06-14T08:18:06.097Z - info: Using extension cli@2.0.7
+2019-06-14T08:18:06.098Z - info: Using extension freeze@2.0.0
+2019-06-14T08:18:06.099Z - info: Using extension debug@2.0.2
+2019-06-14T08:18:06.101Z - info: Using extension express@2.4.0
+2019-06-14T08:18:06.225Z - info: Using extension pdf-utils@1.4.0
+2019-06-14T08:18:06.398Z - info: Using extension data@2.1.0
+2019-06-14T08:18:06.399Z - info: Using extension chrome-pdf@1.4.0
+2019-06-14T08:18:06.497Z - debug: Chrome strategy is dedicated-process
+2019-06-14T08:18:06.498Z - info: Using extension child-templates@1.2.0
+2019-06-14T08:18:06.502Z - info: Using extension browser-client@2.1.1
+2019-06-14T08:18:06.505Z - info: Using extension licensing@2.1.0
+2019-06-14T08:18:06.551Z - info: Using extension authorization@2.2.4
+2019-06-14T08:18:06.557Z - debug: Extension authorization@2.2.4 was disabled
+2019-06-14T08:18:06.557Z - info: Using extension version-control@1.2.3
+2019-06-14T08:18:06.643Z - info: Using extension reports@2.2.0
+2019-06-14T08:18:06.646Z - info: Using extension text@2.0.0
+2019-06-14T08:18:06.647Z - info: Using extension base@2.0.2
+2019-06-14T08:18:06.649Z - info: Using extension studio@2.5.1
+2019-06-14T08:18:06.660Z - debug: studio request logs are enabled (flush interval: 2000)
+2019-06-14T08:18:06.661Z - info: Using extension fs-store@2.4.1
+2019-06-14T08:18:06.978Z - debug: Extension fs-store@2.4.1 was disabled
+2019-06-14T08:18:06.979Z - info: Using extension scheduling@2.0.7
+2019-06-14T08:18:07.033Z - info: Using extension scripts@2.1.0
+2019-06-14T08:18:07.039Z - info: Using extension assets@1.1.3
+2019-06-14T08:18:07.047Z - info: Using extension html-to-xlsx@2.3.1
+2019-06-14T08:18:07.149Z - info: html-to-xlsx detected chrome as available html engine
+2019-06-14T08:18:07.149Z - info: Using extension xlsx@2.0.10
+2019-06-14T08:18:07.305Z - info: Using extension sample-template@2.3.0
+2019-06-14T08:18:07.307Z - info: Using extension resources@2.0.3
+2019-06-14T08:18:07.308Z - info: Using extension public-templates@2.0.1
+2019-06-14T08:18:07.309Z - debug: Extension public-templates@2.0.1 was disabled
+2019-06-14T08:18:07.309Z - info: Using memory provider for template store. The saved templates will be lost after restart
+2019-06-14T08:18:07.351Z - info: Creating default express app.
+2019-06-14T08:18:07.385Z - info: jsreport server successfully started on http port: 5488
+2019-06-14T08:18:07.387Z - info: Verifying license key free
+2019-06-14T08:18:07.392Z - info: Using free license
+2019-06-14T08:18:07.408Z - debug: Creating samples is disabled
+2019-06-14T08:18:07.411Z - info: reporter initialized
+2019-06-14T08:20:04.719Z - debug: OData query on templates
+2019-06-14T08:20:04.724Z - debug: OData query on folders
+2019-06-14T08:20:04.729Z - debug: OData query on tags
+2019-06-14T08:20:04.730Z - debug: OData query on data
+2019-06-14T08:20:04.733Z - debug: OData query on scripts
+2019-06-14T08:20:04.736Z - debug: OData query on assets
+2019-06-14T08:20:04.739Z - debug: OData query on xlsxTemplates
+2019-06-14T08:20:04.746Z - debug: OData query on schedules
+2019-06-14T08:20:04.755Z - debug: OData query on settings
+2019-06-14T08:20:04.886Z - debug: OData query on templates
+2019-06-14T08:20:04.902Z - debug: OData query on settings
+2019-06-14T08:42:15.538Z - info: Initializing jsreport@2.5.0 in development mode using configuration file: jsreport.config.json
+2019-06-14T08:42:15.539Z - info: Searching for available extensions in /Users/jonah/repo/sosreports/
+2019-06-14T08:42:15.546Z - info: Extensions location cache contains up to date information, skipping crawling in /Users/jonah/repo/sosreports/
+2019-06-14T08:42:15.548Z - info: Found 31 extensions
+2019-06-14T08:42:15.564Z - debug: Writing extension locations cache to /var/folders/s8/6n9pf2y54m9445jrtlbhy1fm0000gn/T/jsreport/core/locations.json
+2019-06-14T08:42:15.565Z - debug: Discovered 31 extensions
+2019-06-14T08:42:15.614Z - info: Setting http-server strategy for rendering
+2019-06-14T08:42:15.849Z - info: Using extension import-export@1.3.0
+2019-06-14T08:42:16.037Z - info: Using extension tags@2.2.0
+2019-06-14T08:42:16.041Z - info: Using extension templates@2.2.0
+2019-06-14T08:42:16.043Z - info: Using extension jsrender@2.0.0
+2019-06-14T08:42:16.044Z - debug: Extension authentication@2.2.3 is disabled, skipping
+2019-06-14T08:42:16.044Z - info: Using extension handlebars@2.0.2
+2019-06-14T08:42:16.048Z - info: Using extension cli@2.0.7
+2019-06-14T08:42:16.049Z - info: Using extension freeze@2.0.0
+2019-06-14T08:42:16.050Z - info: Using extension debug@2.0.2
+2019-06-14T08:42:16.052Z - info: Using extension express@2.4.0
+2019-06-14T08:42:16.215Z - info: Using extension pdf-utils@1.4.0
+2019-06-14T08:42:16.412Z - info: Using extension data@2.1.0
+2019-06-14T08:42:16.413Z - info: Using extension chrome-pdf@1.4.0
+2019-06-14T08:42:16.514Z - debug: Chrome strategy is dedicated-process
+2019-06-14T08:42:16.514Z - info: Using extension child-templates@1.2.0
+2019-06-14T08:42:16.522Z - info: Using extension browser-client@2.1.1
+2019-06-14T08:42:16.525Z - info: Using extension licensing@2.1.0
+2019-06-14T08:42:16.574Z - info: Using extension authorization@2.2.4
+2019-06-14T08:42:16.579Z - debug: Extension authorization@2.2.4 was disabled
+2019-06-14T08:42:16.579Z - info: Using extension version-control@1.2.3
+2019-06-14T08:42:16.729Z - info: Using extension reports@2.2.0
+2019-06-14T08:42:16.734Z - info: Using extension text@2.0.0
+2019-06-14T08:42:16.735Z - info: Using extension base@2.0.2
+2019-06-14T08:42:16.736Z - info: Using extension studio@2.5.1
+2019-06-14T08:42:16.754Z - debug: studio request logs are enabled (flush interval: 2000)
+2019-06-14T08:42:16.755Z - info: Using extension fs-store@2.4.1
+2019-06-14T08:42:17.191Z - info: Using extension scheduling@2.0.7
+2019-06-14T08:42:17.251Z - info: Using extension scripts@2.1.0
+2019-06-14T08:42:17.255Z - info: Using extension assets@1.1.3
+2019-06-14T08:42:17.264Z - info: Using extension html-to-xlsx@2.3.1
+2019-06-14T08:42:17.397Z - info: html-to-xlsx detected chrome as available html engine
+2019-06-14T08:42:17.398Z - info: Using extension xlsx@2.0.10
+2019-06-14T08:42:17.563Z - info: Using extension sample-template@2.3.0
+2019-06-14T08:42:17.566Z - info: Using extension resources@2.0.3
+2019-06-14T08:42:17.567Z - info: Using extension public-templates@2.0.1
+2019-06-14T08:42:17.569Z - debug: Extension public-templates@2.0.1 was disabled
+2019-06-14T08:42:17.569Z - info: Using fs provider for template store.
+2019-06-14T08:42:17.572Z - info: fs store is persisting using fs
+2019-06-14T08:42:17.572Z - info: fs store is synchronizing using fs
+2019-06-14T08:42:17.576Z - info: fs store is loading data
+2019-06-14T08:42:17.591Z - debug: fs store sync is configured to use polling for files watcher
+2019-06-14T08:42:17.642Z - info: fs store is initialized successfully
+2019-06-14T08:42:17.666Z - info: Creating default express app.
+2019-06-14T08:42:17.692Z - info: jsreport server successfully started on http port: 5488
+2019-06-14T08:42:17.693Z - info: fs store emits sockets to synchronize underlying changes with studio
+2019-06-14T08:42:17.717Z - info: Verifying license key free
+2019-06-14T08:42:17.718Z - info: Using free license
+2019-06-14T08:42:17.722Z - debug: Inserting samples
+2019-06-14T08:42:17.735Z - debug: Creating folder "samples" for sample entities
+2019-06-14T08:42:17.746Z - debug: Inserting sample entity Orders (entitySet: folders)
+2019-06-14T08:42:17.754Z - debug: Inserting sample entity Population (entitySet: folders)
+2019-06-14T08:42:17.761Z - debug: Inserting sample entity Invoice (entitySet: folders)
+2019-06-14T08:42:17.767Z - debug: Inserting sample entity shared (entitySet: folders)
+2019-06-14T08:42:17.776Z - debug: Inserting sample entity population-data (entitySet: data)
+2019-06-14T08:42:17.786Z - debug: Inserting sample entity invoice-data (entitySet: data)
+2019-06-14T08:42:17.791Z - debug: Inserting sample entity orders-main (entitySet: templates)
+2019-06-14T08:42:17.811Z - debug: Inserting sample entity orders-header (entitySet: templates)
+2019-06-14T08:42:17.823Z - debug: Inserting sample entity population-main (entitySet: templates)
+2019-06-14T08:42:17.844Z - debug: Inserting sample entity invoice-main (entitySet: templates)
+2019-06-14T08:42:17.853Z - debug: Inserting sample entity invoice-styles.css (entitySet: assets)
+2019-06-14T08:42:17.869Z - debug: Inserting sample entity invoice-logo.png (entitySet: assets)
+2019-06-14T08:42:17.882Z - debug: Inserting sample entity global helpers.js (entitySet: assets)
+2019-06-14T08:42:17.890Z - debug: Inserting sample entity orders-script (entitySet: scripts)
+2019-06-14T08:42:17.901Z - debug: Inserting sample entity population-xlsx (entitySet: xlsxTemplates)
+2019-06-14T08:42:17.983Z - info: reporter initialized
+2019-06-14T08:42:34.423Z - debug: OData query on templates
+2019-06-14T08:42:34.431Z - debug: OData query on folders
+2019-06-14T08:42:34.435Z - debug: OData query on tags
+2019-06-14T08:42:34.437Z - debug: OData query on data
+2019-06-14T08:42:34.438Z - debug: OData query on scripts
+2019-06-14T08:42:34.440Z - debug: OData query on assets
+2019-06-14T08:42:34.449Z - debug: OData query on xlsxTemplates
+2019-06-14T08:42:34.452Z - debug: OData query on schedules
+2019-06-14T08:42:34.471Z - debug: OData query on settings
+2019-06-14T08:42:34.647Z - debug: OData query on templates
+2019-06-14T08:42:34.688Z - debug: OData query on settings
+2019-06-14T08:42:59.492Z - debug: OData insert into folders
+2019-06-14T08:43:18.674Z - debug: OData insert into assets
+2019-06-14T08:43:18.803Z - debug: OData query on assets
+2019-06-14T08:44:02.000Z - debug: OData update on assets
+2019-06-14T08:44:02.028Z - debug: OData query on assets
+2019-06-14T08:46:09.303Z - debug: OData insert into data
+2019-06-14T08:46:30.514Z - debug: OData insert into assets
+2019-06-14T08:46:30.633Z - debug: OData query on assets
+2019-06-14T08:46:44.383Z - debug: OData update on assets
+2019-06-14T08:46:44.404Z - debug: OData query on assets
+2019-06-14T08:48:06.398Z - debug: OData insert into templates
+2019-06-14T08:48:28.511Z - debug: OData update on templates
+2019-06-14T08:48:28.533Z - debug: OData query on templates
+2019-06-14T08:49:07.953Z - debug: OData update on templates
+2019-06-14T08:49:07.971Z - debug: OData query on templates
+2019-06-14T08:49:09.286Z - info: Starting rendering request 1 (user: null)
+2019-06-14T08:49:09.293Z - info: Rendering template { name: mvc-list, recipe: html-to-xlsx, engine: handlebars, preview: true }
+2019-06-14T08:49:09.295Z - debug: Adding sample data Byl8AR0lyr
+2019-06-14T08:49:09.305Z - debug: Resources not defined for this template.
+2019-06-14T08:49:09.319Z - debug: Replaced assets ["mvc-list-styles.css"]
+2019-06-14T08:49:09.324Z - debug: Base url not specified, skipping its injection.
+2019-06-14T08:49:09.326Z - debug: Rendering engine handlebars
+2019-06-14T08:49:09.558Z - debug: Compiled template not found in the cache, compiling
+2019-06-14T08:49:09.561Z - debug: Executing recipe html-to-xlsx
+2019-06-14T08:49:12.531Z - debug: Skipping storing report.
+2019-06-14T08:49:12.532Z - info: Rendering request 1 finished in 3246 ms
+2019-06-14T08:49:41.809Z - debug: OData remove from folders
+2019-06-14T08:49:53.716Z - debug: OData remove from folders
+2019-06-14T08:53:58.129Z - info: Initializing jsreport@2.5.0 in development mode using configuration file: jsreport.config.json
+2019-06-14T08:53:58.130Z - info: Searching for available extensions in /Users/jonah/repo/sosreports/
+2019-06-14T08:53:58.136Z - info: Extensions location cache /var/folders/s8/6n9pf2y54m9445jrtlbhy1fm0000gn/T/jsreport/core/locations.json contains older information, crawling
+2019-06-14T08:53:58.946Z - info: Found 31 extensions
+2019-06-14T08:53:58.961Z - debug: Writing extension locations cache to /var/folders/s8/6n9pf2y54m9445jrtlbhy1fm0000gn/T/jsreport/core/locations.json
+2019-06-14T08:53:58.962Z - debug: Discovered 31 extensions
+2019-06-14T08:53:59.013Z - info: Setting http-server strategy for rendering
+2019-06-14T08:53:59.251Z - info: Using extension import-export@1.3.0
+2019-06-14T08:53:59.411Z - info: Using extension tags@2.2.0
+2019-06-14T08:53:59.414Z - info: Using extension templates@2.2.0
+2019-06-14T08:53:59.416Z - info: Using extension jsrender@2.0.0
+2019-06-14T08:53:59.417Z - debug: Extension authentication@2.2.3 is disabled, skipping
+2019-06-14T08:53:59.417Z - info: Using extension handlebars@2.0.2
+2019-06-14T08:53:59.419Z - info: Using extension cli@2.0.7
+2019-06-14T08:53:59.419Z - info: Using extension freeze@2.0.0
+2019-06-14T08:53:59.421Z - info: Using extension debug@2.0.2
+2019-06-14T08:53:59.423Z - info: Using extension express@2.4.0
+2019-06-14T08:53:59.533Z - info: Using extension pdf-utils@1.4.0
+2019-06-14T08:53:59.707Z - info: Using extension data@2.1.0
+2019-06-14T08:53:59.708Z - info: Using extension chrome-pdf@1.4.0
+2019-06-14T08:53:59.792Z - debug: Chrome strategy is dedicated-process
+2019-06-14T08:53:59.793Z - info: Using extension child-templates@1.2.0
+2019-06-14T08:53:59.797Z - info: Using extension browser-client@2.1.1
+2019-06-14T08:53:59.799Z - info: Using extension licensing@2.1.0
+2019-06-14T08:53:59.839Z - info: Using extension authorization@2.2.4
+2019-06-14T08:53:59.842Z - debug: Extension authorization@2.2.4 was disabled
+2019-06-14T08:53:59.842Z - info: Using extension version-control@1.2.3
+2019-06-14T08:53:59.930Z - info: Using extension reports@2.2.0
+2019-06-14T08:53:59.933Z - info: Using extension text@2.0.0
+2019-06-14T08:53:59.934Z - info: Using extension base@2.0.2
+2019-06-14T08:53:59.935Z - info: Using extension studio@2.5.1
+2019-06-14T08:53:59.948Z - debug: studio request logs are enabled (flush interval: 2000)
+2019-06-14T08:53:59.949Z - info: Using extension fs-store@2.4.1
+2019-06-14T08:54:00.273Z - info: Using extension scheduling@2.0.7
+2019-06-14T08:54:00.328Z - info: Using extension scripts@2.1.0
+2019-06-14T08:54:00.332Z - info: Using extension assets@1.1.3
+2019-06-14T08:54:00.341Z - info: Using extension html-to-xlsx@2.3.1
+2019-06-14T08:54:00.463Z - info: html-to-xlsx detected chrome as available html engine
+2019-06-14T08:54:00.463Z - info: Using extension xlsx@2.0.10
+2019-06-14T08:54:00.597Z - info: Using extension sample-template@2.3.0
+2019-06-14T08:54:00.600Z - info: Using extension resources@2.0.3
+2019-06-14T08:54:00.601Z - info: Using extension public-templates@2.0.1
+2019-06-14T08:54:00.602Z - debug: Extension public-templates@2.0.1 was disabled
+2019-06-14T08:54:00.602Z - info: Using fs provider for template store.
+2019-06-14T08:54:00.605Z - info: fs store is persisting using fs
+2019-06-14T08:54:00.606Z - info: fs store is synchronizing using fs
+2019-06-14T08:54:00.607Z - info: fs store is loading data
+2019-06-14T08:54:00.621Z - debug: fs store sync is configured to use polling for files watcher
+2019-06-14T08:54:00.656Z - info: fs store is initialized successfully
+2019-06-14T08:54:00.689Z - info: Creating default express app.
+2019-06-14T08:54:00.710Z - info: jsreport server successfully started on http port: 5488
+2019-06-14T08:54:00.711Z - info: fs store emits sockets to synchronize underlying changes with studio
+2019-06-14T08:54:00.730Z - info: Verifying license key free
+2019-06-14T08:54:00.730Z - info: Using free license
+2019-06-14T08:54:00.734Z - info: reporter initialized

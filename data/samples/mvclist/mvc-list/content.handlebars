@@ -1,0 +1,65 @@
+<html>
+    <head>
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <style>
+            {#asset mvc-list-styles.css @encoding=utf8}
+        </style>
+    </head>
+    <body>
+        <div class="invoice-box">
+                        <table>
+                            <tr>
+                                <td colspan = "4">NAME OF ORGANIZATION</td>
+                                <td colspan = "4">{{getPartner cases}}</td>
+                            </tr>
+                            <tr>
+                                <td>LIST OF MVC SUPPORTED</td>
+                            </tr>
+                            <tr>
+                                <th>NAME</th>
+                                <th>YEAR OF BIRTH</th>
+                                <th>SEX</th>
+                                <th>FATHER'S NAME</th>
+                                <th>MOTHERS'S NAME</th>
+                                <th>HOUSEHOLD HEAD</th>
+                                <th>PROVINCE OF ORIGIN</th>
+                                <th>DISTRICT</th>
+                                <th>SECTOR</th>
+                                <th>CELL</th>
+                                <th>VILLAGE</th>
+                                <th>EDUCATION</th>
+                                <th>PROTECTION</th>
+                                <th>JUSTICE</th>
+                                <th>PARTICIPATION</th>
+                                <th>FAMILY & ALTERNATIVE CARE</th>
+                                <th>HEALTH</th>
+                                <th>STANDARDS OF LIVING</th>
+                                <th>IDENTITY&NATIONALITY</th>
+                            </tr>
+                            {{#each cases}}
+                            <tr>
+                                <td style = "width:30%">{{child_personal_details.name}}</td>
+                                <td style = "width:30%">{{getLocaleDateString child_personal_details.dob}}</td>
+                                <td style = "width:30%">{{child_personal_details.sex}}</td>
+                                <td></td>
+                                <td></td>
+                                <td>{{getHouseHoldhead persons_of_importance_to_child.living_with_child}}</td>
+                                <td>{{address.Province}}</td>
+                                <td>{{address.District}}</td>
+                                <td>{{address.Sector}}</td>
+                                <td>{{address.Cellule}}</td>
+                                <td>{{address.Village}}</td>
+                                <td></td>
+                                <td></td>
+                                <td></td>
+                                <td></td>
+                                <td></td>
+                                <td></td>
+                                <td></td>
+                                <td>{{child_personal_details.nationality}}</td>
+                            </tr>
+                            {{/each}}
+                        </table>
+        </div>
+    </body>
+</html>
